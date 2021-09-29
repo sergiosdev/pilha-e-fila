@@ -11,7 +11,6 @@
 # Data       : 27/09/2021                                   #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-
 ####################### FILA Vazia ##########################
 $fila_bradesco = array();   #array vazio
 echo "<div style='background-color:#606060; color:#fff;padding: 5px;'> Fila Vazia </div>";
